@@ -11,7 +11,38 @@
   "podcastSpotifyUrl": "",
   "contactEmail": "",
   "podcastEpisodes": [],
-  "products": [],
+  "products": [
+    {
+      "name": "Yescool Weighted Throw Blanket for Adults, 20 lb",
+      "category": "Comfort & sleep",
+      "description": "A weighted blanket for relaxation and comfort. A 20 lb blanket may be too heavy for some people; check appropriate weight and safe use.",
+      "url": "https://www.amazon.com/s?k=Yescool+Weighted+Throw+Blanket+20lbs&tag=scoliosisstro-20"
+    },
+    {
+      "name": "Designs for Health B-Supreme Methylated Vitamin B Complex",
+      "category": "Supplements",
+      "description": "Vitamin B complex supplement. Not a scoliosis treatment; consult a healthcare professional before use, especially if taking medications.",
+      "url": "https://www.amazon.com/s?k=Designs+for+Health+B+Supreme+methylated+vitamin+B&tag=scoliosisstro-20"
+    },
+    {
+      "name": "KingPavonini Wireless TENS Unit Muscle Stimulator",
+      "category": "Pain management accessories",
+      "description": "Electrical nerve stimulation device marketed for temporary pain relief. Consult a clinician before use; avoid if you have a pacemaker or other contraindications.",
+      "url": "https://www.amazon.com/s?k=KingPavonini+Wireless+TENS+Unit+Muscle+Stimulator&tag=scoliosisstro-20"
+    },
+    {
+      "name": "Researched Nutritionals Tri-Fortify Liposomal Glutathione",
+      "category": "Supplements",
+      "description": "Glutathione supplement. No established evidence that it treats scoliosis; ask a clinician whether supplementation is appropriate.",
+      "url": "https://www.amazon.com/s?k=Researched+Nutritionals+Tri+Fortify+Liposomal+Glutathione&tag=scoliosisstro-20"
+    },
+    {
+      "name": "Natural Vitality CALM Sleep Magnesium Gummies",
+      "category": "Sleep & relaxation",
+      "description": "Magnesium-containing sleep gummies. Review ingredients and dosing with a clinician if needed; not a scoliosis treatment.",
+      "url": "https://www.amazon.com/s?k=Natural+Vitality+CALM+Sleep+Gummies+magnesium&tag=scoliosisstro-20"
+    }
+  ],
   "newsletterUrl": "",
   "privacyUrl": "",
   "termsUrl": ""
